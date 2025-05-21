@@ -1,9 +1,9 @@
 # SHELTER - A Strategic Survival Card Game (Mobile Adaptation)
-![1](https://github.com/Olga-Gol/ShelterGame/assets/66369083/05a497cb-e51b-4f39-8bae-ac4148fd98ca)
+![ShelterGif](https://github.com/user-attachments/assets/8f07af1e-2701-4ae1-9c35-3ca8183db3ac)
 
 A React Native adaptation of a social strategy game where players compete to prove their randomly-assigned character (with traits like age, profession, and skills) would be most valuable in a survival bunker scenario.
 
-**Why I Built This**:  
+### Why I Built This  
 My first iOS app started as an experiment to:
 - Learn mobile development with React Native/Expo
 - Create a party game my friends could actually play
